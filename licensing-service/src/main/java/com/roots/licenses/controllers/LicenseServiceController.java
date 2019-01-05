@@ -1,6 +1,7 @@
 package com.roots.licenses.controllers;
 
-import com.roots.licenses.dto.License;
+import com.roots.licenses.model.License;
+
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
